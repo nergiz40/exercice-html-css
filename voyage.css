@@ -1,0 +1,61 @@
+html {
+    background-color: aliceblue;
+}
+
+* {
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    text-align: justify;
+
+}
+
+.h1 {
+    font-size: medium;
+    color: mediumorchid;
+    background-color: blue;
+}
+
+.h2 {
+    font-size: medium;
+    color: deeppink;
+    background-color: blueviolet;
+
+}
+
+.aurores-boreales-norvege {
+    display: block;
+    margin: auto;
+
+}
+
+#dtitre {
+    font-size: medium;
+    color: fuchsia;
+    background-color: yellowgreen;
+
+
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+#codecomentaire {
+    font-size: larger;
+    color: aqua;
+    background-color: darksalmon;
+
+
+}
